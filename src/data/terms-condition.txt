@@ -1,0 +1,439 @@
+# HACKTRION — TERMS OF USE
+**Effective Date:** 15 November 2026  
+**Last Updated:** 15 November 2026
+
+## 1. Introduction and Acceptance
+
+Welcome to Hacktrion.
+
+These Terms of Use ("Terms") govern your access to and use of the Hacktrion website, mobile applications, services, features, tools, and related platforms (collectively, the "Platform").
+
+Hacktrion is operated under the brand name **KodepiX**, an unincorporated startup team. KodepiX is not represented as a registered company, LLP, or other incorporated legal entity.
+
+By accessing, registering for, or using Hacktrion, you acknowledge that you have read, understood, and agreed to these Terms and our Privacy Policy.
+
+If you do not agree with these Terms, you must stop using the Platform.
+
+## 2. About Hacktrion
+
+Hacktrion is a platform designed to help students discover hackathons, connect with potential teammates, participate in events, showcase projects, and build their academic and professional portfolios.
+
+The Platform may provide features including:
+
+- Hackathon discovery and event listings.
+- Search, filters, and personalized recommendations.
+- Saved hackathons and Notify Me functionality.
+- Student profiles and skill information.
+- Team creation and team collaboration.
+- Event-related group chats and communication.
+- Event announcements and updates.
+- Applications and participation-related workflows.
+- Project submissions and showcases.
+- Certificates and certificate verification.
+- Notifications and deadline reminders.
+- Institution and organizer dashboards.
+
+Features may be modified, introduced, suspended, or discontinued at Hacktrion's discretion.
+
+## 3. Definitions
+
+For these Terms:
+
+**"Hacktrion"** refers to the Platform and its services operated under the KodepiX brand.
+
+**"User"** refers to any person accessing or using the Platform.
+
+**"Student"** refers to a user who uses Hacktrion to discover or participate in hackathons and related activities.
+
+**"Institution"** refers to a college, university, educational organization, or other eligible institution using Hacktrion's hosting or organizer services.
+
+**"Organizer"** refers to an institution or an individual officially authorized by an approved institution to manage an event through Hacktrion.
+
+**"Event" or "Hackathon"** refers to a hackathon, competition, workshop, or other event listed or managed through the Platform.
+
+**"User Content"** refers to information, text, images, files, submissions, projects, messages, or other materials uploaded, submitted, or shared by users.
+
+## 4. Role of Hacktrion
+
+4.1 Hacktrion primarily provides a digital platform that facilitates discovery, communication, participation, and coordination of hackathons and related activities.
+
+4.2 Hacktrion may provide tools to institutions and organizers for publishing and managing events.
+
+4.3 Unless expressly stated otherwise, Hacktrion is not the organizer, sponsor, judge, or guarantor of every event listed on the Platform.
+
+4.4 Hacktrion does not guarantee that any event will take place as announced, that a user will be selected, that a team will be formed successfully, or that any participant will receive a prize, certificate, internship, employment opportunity, or other benefit.
+
+4.5 Event information may be submitted by institutions, organizers, or other authorized sources. Hacktrion may review, modify, restrict, or remove listings where appropriate.
+
+## 5. Eligibility and Account Registration
+
+5.1 You must provide accurate and complete information when creating an account.
+
+5.2 You are responsible for keeping your login credentials and account access secure.
+
+5.3 You must not impersonate another person, institution, or organization.
+
+5.4 You must not create accounts using false, misleading, or unauthorized information.
+
+5.5 You are responsible for all activities conducted through your account.
+
+5.6 Hacktrion may request additional information or verification where reasonably necessary to protect users, institutions, events, or the Platform.
+
+5.7 You must promptly notify Hacktrion if you suspect unauthorized access to your account.
+
+## 6. Student Accounts and Participation
+
+6.1 Students may use Hacktrion to discover events, create profiles, save hackathons, receive notifications, find teammates, and participate in available event-related activities.
+
+6.2 Students are responsible for ensuring that the information in their profiles, applications, and submissions is accurate.
+
+6.3 Students must follow the eligibility requirements, submission instructions, deadlines, and rules specified for each event.
+
+6.4 Submitting an application through Hacktrion does not guarantee acceptance or participation.
+
+6.5 Hacktrion does not guarantee that a student will find a team, receive an invitation, or be selected by an organizer.
+
+6.6 Students must not use the Platform to misrepresent their qualifications, skills, academic details, achievements, or project contributions.
+
+6.7 Students are responsible for their conduct when communicating with other users.
+
+## 7. Institutions and Event Hosting
+
+7.1 Hacktrion currently provides event-hosting functionality exclusively to eligible educational institutions and their authorized representatives.
+
+7.2 Individual users cannot independently register as event hosts or publish events through the institution-hosting system unless expressly authorized by Hacktrion.
+
+7.3 Institutions must provide accurate institutional information and any requested verification documents.
+
+7.4 An institution is responsible for ensuring that any person using its organizer account is properly authorized.
+
+7.5 Institutions and organizers are responsible for:
+
+- Providing accurate event descriptions and eligibility criteria.
+- Publishing correct registration and submission deadlines.
+- Communicating event schedules, rules, and requirements.
+- Managing participant selection and event operations.
+- Conducting judging and evaluation fairly.
+- Providing accurate information about prizes and certificates.
+- Communicating cancellations, postponements, and material changes.
+- Handling event-related queries and disputes within their responsibility.
+
+7.6 Hacktrion may request additional verification, restrict organizer privileges, suspend an event, or remove event content where necessary.
+
+7.7 Institutions and organizers must not publish misleading, fraudulent, unlawful, or unauthorized events.
+
+7.8 Hacktrion may refuse or revoke hosting access if an institution or its representative violates these Terms or creates a risk to users or the Platform.
+
+## 8. Hackathon Listings, Applications and Notifications
+
+8.1 Hacktrion may display events collected from institutions, organizers, publicly available sources, or other authorized submissions.
+
+8.2 Hacktrion may review, categorize, edit, feature, or remove event listings.
+
+8.3 Event information may change. Users should verify important requirements and deadlines with the relevant organizer.
+
+8.4 Hacktrion may provide event statuses such as:
+
+- Registration Not Started.
+- Registration Open.
+- Registration Closed.
+- Submissions Open.
+- Submissions Closed.
+- Event Ongoing.
+- Event Completed.
+- Event Cancelled.
+
+8.5 These statuses are provided for convenience and may depend on information supplied by organizers.
+
+8.6 The Notify Me feature may allow users to request notifications about an event or a future registration or submission window.
+
+8.7 Notifications are provided as a convenience. Hacktrion does not guarantee delivery, timing, or successful receipt of every notification.
+
+8.8 Users are responsible for independently tracking important deadlines and requirements.
+
+## 9. Saved Hackathons and Personalization
+
+9.1 Hacktrion may allow users to save or bookmark events for convenient access.
+
+9.2 Saved events are personal convenience features and do not constitute registration, application, or confirmation of participation.
+
+9.3 Hacktrion may provide personalized event recommendations based on profile information, preferences, skills, interests, and Platform activity, as described in the Privacy Policy.
+
+9.4 Recommendations are informational suggestions and do not guarantee eligibility, selection, or suitability.
+
+9.5 Users are responsible for reviewing event requirements before applying.
+
+## 10. Teams, Communication and Chats
+
+10.1 Hacktrion may provide team creation, team discovery, invitations, and collaboration features.
+
+10.2 Team members are responsible for their own participation, communication, and collaboration.
+
+10.3 Hacktrion may provide event-related group chats or other communication features.
+
+10.4 Users must not use communication features for harassment, threats, spam, impersonation, fraud, unauthorized advertising, or any unlawful activity.
+
+10.5 Users must not share another person's private information without authorization.
+
+10.6 Phone numbers, email addresses, or other personal contact details may not be displayed to other team members through the Platform's team communication interface. However, users must not assume that all information they voluntarily share in messages is private from recipients.
+
+10.7 Hacktrion may moderate, restrict, remove, or investigate reported content and communications where reasonably necessary.
+
+10.8 Event-related team chats are intended to be deleted from active systems within three (3) days after the relevant event concludes, subject to technical limitations, legal obligations, security requirements, dispute resolution, and applicable backup-retention cycles.
+
+## 11. User Content and Intellectual Property
+
+11.1 Users retain ownership of the content and intellectual property they independently create and upload to Hacktrion, subject to third-party rights and applicable law.
+
+11.2 By uploading or submitting User Content, you grant Hacktrion a non-exclusive, worldwide, royalty-free licence to host, store, reproduce, display, transmit, and process that content only as reasonably necessary to operate, maintain, provide, promote, and improve the Platform and its relevant features.
+
+11.3 This licence does not transfer ownership of your intellectual property to Hacktrion.
+
+11.4 You represent that you have the necessary rights and permissions to upload, publish, or submit the content you provide.
+
+11.5 You must not upload or distribute content that infringes copyright, trademarks, patents, privacy rights, or other legal rights.
+
+11.6 Hacktrion may remove or restrict access to content that violates these Terms, applicable law, or third-party rights.
+
+11.7 Event-specific rules may impose additional intellectual property requirements. Such requirements must be communicated by the relevant organizer. Users should review those rules before participating.
+
+11.8 Unless expressly agreed otherwise, participation in an event does not automatically transfer ownership of a participant's project or intellectual property to Hacktrion.
+
+## 12. Prohibited Activities and Platform Misuse
+
+You agree not to use Hacktrion for any unlawful, fraudulent, abusive, harmful, or unauthorized purpose.
+
+You must not:
+
+**12.1 Illegal Activities:** Use the Platform to conduct, promote, facilitate, or support any activity that violates applicable laws or regulations.
+
+**12.2 False Information and Impersonation:** Provide false information, impersonate another person or institution, or misrepresent your identity, qualifications, affiliation, or authority.
+
+**12.3 Harassment and Abuse:** Threaten, harass, bully, intimidate, defame, exploit, or discriminate against other users.
+
+**12.4 Unauthorized Access:** Attempt to gain unauthorized access to accounts, servers, databases, APIs, administrative systems, or other restricted Platform components.
+
+**12.5 Reverse Engineering, Copying and Unauthorized Use:**
+
+You shall not, directly or indirectly, without Hacktrion's prior written permission and to the extent prohibited by applicable law:
+
+1. **Reverse Engineer:** Reverse engineer, decompile, disassemble, decode, or attempt to derive or discover the source code, object code, underlying algorithms, architecture, database structure, technical processes, or internal components of the Hacktrion Platform.
+
+2. **Copy or Reproduce:** Copy, reproduce, duplicate, modify, adapt, translate, distribute, publish, or create derivative works from any part of the Hacktrion Platform, including its application, website, software, features, functionality, or technical infrastructure.
+
+3. **Unauthorized Use of Platform Assets:** Download, extract, reuse, redistribute, commercially exploit, or otherwise use any proprietary element of Hacktrion, including its source code, UI/UX designs, layouts, graphics, illustrations, logos, trademarks, icons, text, databases, APIs, documentation, or other intellectual property.
+
+4. **Impersonation or Replication:** Create, operate, or distribute any application, website, service, or product that copies, imitates, replicates, or misrepresents Hacktrion's branding, interface, functionality, or proprietary materials in a manner that infringes Hacktrion's rights or causes user confusion.
+
+5. **Security Circumvention:** Bypass, disable, interfere with, manipulate, or attempt to circumvent any security mechanism, authentication process, access restriction, technical protection, or other safeguard implemented by Hacktrion.
+
+6. **Unauthorized Data Extraction:** Use bots, crawlers, scripts, automated tools, scraping technologies, or any other method to systematically collect, extract, download, or access Platform data, user information, event information, or other content without proper authorization.
+
+7. **Unauthorized Commercial or Competitive Use:** Use Hacktrion's software, technology, proprietary materials, data, branding, or other Platform components to develop, train, operate, promote, or commercially exploit another product or service without prior written authorization from Hacktrion.
+
+8. **Unauthorized Third-Party Access:** Allow, assist, or enable any third party to perform any of the activities prohibited under this clause, whether for personal, commercial, educational, or any other purpose.
+
+Any violation or attempted violation of this clause may result in suspension or termination of your account, restriction of access to the Platform, removal of unauthorized content, and/or legal action under applicable laws.
+
+Nothing in this clause shall prohibit activities that are expressly permitted under applicable law or that Hacktrion has authorized in writing.
+
+**12.6 Platform Interference:** Disrupt, damage, overload, interfere with, or attempt to impair the availability, performance, or security of the Platform.
+
+**12.7 Malware and Harmful Code:** Upload or distribute viruses, malware, ransomware, malicious scripts, or other harmful code.
+
+**12.8 Spam and Manipulation:** Use automated accounts, fake registrations, misleading reviews, artificial engagement, or other deceptive methods to manipulate Platform activity.
+
+**12.9 Unauthorized Data Collection:** Collect, disclose, sell, or misuse personal information belonging to other users without a lawful basis or authorization.
+
+**12.10 Misuse of Events:** Submit plagiarized projects, falsified certificates, fabricated achievements, or misleading applications.
+
+**12.11 Unauthorized Commercial Activity:** Use Hacktrion to promote, advertise, sell, or distribute products or services without appropriate authorization.
+
+Hacktrion may investigate suspected violations and take appropriate action, including warnings, content removal, access restrictions, account suspension, termination, or referral to relevant authorities where legally appropriate.
+
+## 13. Projects, Showcases and Certificates
+
+13.1 Hacktrion may allow users to upload, display, or showcase projects and related achievements.
+
+13.2 Users are responsible for the originality, accuracy, legality, and ownership of their submissions.
+
+13.3 Hacktrion does not guarantee that a project will receive recognition, be selected, or be evaluated positively.
+
+13.4 Certificates may be issued by Hacktrion, event organizers, or participating institutions, depending on the event and the applicable arrangement.
+
+13.5 Hacktrion may provide certificate identifiers and QR-based verification functionality.
+
+13.6 Certificate issuance, authenticity, eligibility, and verification may depend on information supplied by the relevant organizer or institution.
+
+13.7 Hacktrion may revoke, invalidate, or correct certificates where fraud, errors, unauthorized issuance, or other legitimate reasons are identified.
+
+13.8 Users must not forge, modify, reproduce deceptively, or misuse certificates or verification identifiers.
+
+## 14. Prizes, Judging and Event Disputes
+
+14.1 Event rules, judging criteria, prize details, eligibility requirements, and result announcements are generally determined by the relevant organizer.
+
+14.2 Hacktrion does not guarantee the availability, delivery, value, or payment of any prize unless Hacktrion has expressly undertaken that responsibility in writing.
+
+14.3 Questions or disputes concerning judging, selection, team participation, prize distribution, event cancellation, or event management should generally be directed to the relevant organizer.
+
+14.4 Hacktrion may assist with communication or review where appropriate but does not guarantee a particular outcome.
+
+14.5 Organizers remain responsible for fulfilling commitments they make to participants.
+
+## 15. Payments, Fees and Refunds
+
+15.1 Certain events or services may involve registration fees, participation fees, subscriptions, or other charges.
+
+15.2 Any applicable fee must be disclosed to users before they complete the relevant payment or transaction.
+
+15.3 Payment processing may be handled by third-party payment service providers where such services are introduced.
+
+15.4 Users must review the applicable payment, cancellation, and refund conditions before making a payment.
+
+15.5 Refund eligibility, timelines, and procedures may depend on the event organizer, service provider, and applicable refund policy.
+
+15.6 Hacktrion does not guarantee a refund for payments made directly to an organizer or third party unless Hacktrion has expressly accepted responsibility for that transaction.
+
+15.7 Hacktrion may introduce separate payment or refund terms for specific services or events.
+
+## 16. Third-Party Services and External Links
+
+16.1 Hacktrion may use third-party infrastructure, hosting, authentication, communication, notification, or other service providers to operate the Platform.
+
+16.2 The Platform may contain links to third-party websites, services, event pages, or resources.
+
+16.3 Third-party services are governed by their own terms, privacy policies, and operational practices.
+
+16.4 Hacktrion does not control and is not responsible for the availability, accuracy, security, or content of external services.
+
+16.5 Users should review the applicable third-party terms before using external services.
+
+## 17. Platform Availability and Changes
+
+17.1 Hacktrion aims to maintain reliable Platform access but does not guarantee uninterrupted, error-free, or continuous availability.
+
+17.2 Access may be interrupted due to maintenance, technical failures, security incidents, infrastructure issues, network problems, or circumstances beyond reasonable control.
+
+17.3 Hacktrion may modify, suspend, restrict, or discontinue any feature or service where reasonably necessary.
+
+17.4 Hacktrion may release updates, patches, improvements, or changes to the Platform.
+
+17.5 Users may be required to install updates or use supported versions to continue accessing certain features.
+
+## 18. Account Suspension and Termination
+
+18.1 Hacktrion may suspend, restrict, or terminate an account if:
+
+- The user violates these Terms or the Privacy Policy.
+- The account is involved in fraud, impersonation, or unlawful activity.
+- The user attempts unauthorized access or security circumvention.
+- The account creates a risk to other users, institutions, events, or the Platform.
+- The user provides materially false or misleading information.
+- Suspension or termination is required by law or a competent authority.
+
+18.2 Where reasonably appropriate, Hacktrion may provide notice or an opportunity to address the violation. However, immediate action may be taken where necessary to protect users, security, legal interests, or Platform operations.
+
+18.3 Users may stop using Hacktrion at any time.
+
+18.4 Users may request account deletion by contacting support@hacktrion.app, subject to the account verification and deletion procedures described in the Privacy Policy.
+
+18.5 Account suspension or termination does not automatically remove information that Hacktrion is legally required or otherwise permitted to retain.
+
+## 19. Privacy and Personal Information
+
+19.1 Your use of Hacktrion is also governed by the Hacktrion Privacy Policy.
+
+19.2 The Privacy Policy explains the categories of information collected, how information is used, relevant sharing practices, retention, and user rights.
+
+19.3 By using the Platform, you acknowledge that your information will be processed as described in the Privacy Policy and in accordance with applicable law.
+
+19.4 Users should avoid sharing sensitive personal information in public profiles, event submissions, or group communications unless necessary and appropriate.
+
+19.5 For privacy-related questions, requests, or concerns, contact support@hacktrion.app.
+
+## 20. Disclaimers
+
+20.1 Hacktrion is provided on an "as available" basis, subject to applicable law.
+
+20.2 To the extent permitted by law, Hacktrion does not warrant that the Platform will always be uninterrupted, secure, error-free, or compatible with every device or operating environment.
+
+20.3 Hacktrion does not guarantee the accuracy, completeness, reliability, or continued availability of event information supplied by organizers or third parties.
+
+20.4 Hacktrion does not guarantee employment, internships, scholarships, prizes, team placements, admissions, or other professional or academic outcomes.
+
+20.5 Users participate in events and communicate with other users at their own discretion and risk.
+
+20.6 Nothing in these Terms excludes any consumer or other statutory rights that cannot lawfully be excluded.
+
+## 21. Limitation of Liability
+
+21.1 To the maximum extent permitted by applicable law, Hacktrion and the persons operating the Platform shall not be liable for indirect, incidental, special, exemplary, or consequential losses arising from the use of or inability to use the Platform.
+
+21.2 This may include loss of data, loss of opportunities, loss of profits, loss of reputation, or disruption of business or academic activities.
+
+21.3 Hacktrion shall not be responsible for disputes, misconduct, misrepresentations, or failures by event organizers, institutions, participants, or other third parties, except to the extent liability cannot lawfully be excluded.
+
+21.4 Nothing in this section excludes or limits liability where such exclusion or limitation is prohibited under applicable law.
+
+## 22. Indemnification
+
+To the extent permitted by applicable law, you agree to be responsible for losses, claims, liabilities, damages, and reasonable expenses arising from:
+
+- Your violation of these Terms.
+- Your misuse of the Platform.
+- Your infringement of another person's intellectual property, privacy, or other legal rights.
+- Your unlawful or fraudulent activities.
+- Your User Content or submissions, where they violate applicable rights or laws.
+
+This section does not require you to indemnify Hacktrion for losses caused by Hacktrion's own unlawful conduct or liability that cannot legally be transferred to you.
+
+## 23. Governing Law and Jurisdiction
+
+23.1 These Terms shall be governed by the laws of India.
+
+23.2 Subject to mandatory legal requirements and applicable jurisdictional rules, courts having competent jurisdiction in Jaipur, Rajasthan, India, shall have jurisdiction over disputes arising from these Terms.
+
+23.3 Nothing in this section prevents a user from exercising any legal right to approach a competent authority, consumer forum, or court where permitted by law.
+
+## 24. Changes to These Terms
+
+24.1 Hacktrion may update these Terms from time to time to reflect changes in its services, features, legal requirements, or operational practices.
+
+24.2 Updated Terms will be published on the Platform with a revised "Last Updated" date.
+
+24.3 Where required by applicable law, Hacktrion will provide appropriate notice or obtain consent for material changes.
+
+24.4 Continued use of the Platform after updated Terms become effective constitutes acceptance of the revised Terms, to the extent permitted by applicable law.
+
+## 25. Miscellaneous
+
+25.1 **Severability:** If any provision of these Terms is held invalid or unenforceable, the remaining provisions will continue to apply to the extent legally permissible.
+
+25.2 **No Waiver:** Failure to enforce any provision does not constitute a waiver of that provision or any other right.
+
+25.3 **Entire Agreement:** These Terms, together with the Privacy Policy and any applicable additional policies or event-specific terms, constitute the agreement governing your use of the Platform.
+
+25.4 **Assignment:** Users may not transfer their rights or obligations under these Terms without Hacktrion's prior written permission. Hacktrion may transfer or assign its rights and obligations where legally permissible.
+
+25.5 **Force Majeure:** Hacktrion shall not be responsible for delays or failures caused by circumstances beyond its reasonable control, including natural disasters, internet or network failures, government actions, infrastructure disruptions, or other unforeseen events.
+
+25.6 **Survival:** Provisions which by their nature should continue after account termination or the end of these Terms shall survive, including provisions relating to intellectual property, liability, indemnification, disputes, and applicable legal obligations.
+
+## 26. Contact and Grievance Redressal
+
+For questions, complaints, account-related concerns, or grievances regarding the Platform or these Terms, you may contact:
+
+**Platform:** Hacktrion  
+**Operating Brand:** KodepiX  
+**Grievance Officer:** Chirag  
+**Email:** support@hacktrion.app  
+**Website:** https://hacktrion.app
+
+Please include sufficient details about your concern so that it can be reviewed and addressed appropriately.
+
+Hacktrion will handle grievances in accordance with applicable laws and the procedures and timelines applicable to the nature of the complaint.
+
+---
+
+**By registering for or using Hacktrion, you acknowledge that you have read and agreed to these Terms of Use.**
